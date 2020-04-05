@@ -1,0 +1,24 @@
+.cajaInicial{
+    background-color: rgb(50, 155, 40);
+    border-style: groove;
+}
+.cajasecundaria{
+    background-color: rgb(236, 222, 18);
+    border-style: dashed;
+}
+
+.bordeConMargenes{
+    border: 50px 50px 50px 50px;
+    padding: 20px 40px 20px 40px;
+    border-style:solid;
+}
+
+.cajaConTextoCentrado{
+    border: 50px 50px 50px 50px;
+    padding: 20px 40px 20px 40px;
+    border-style: solid;
+    text-align: center;
+    background-position: right;
+    border-width: 10px;
+    border-radius: 25px;
+}
